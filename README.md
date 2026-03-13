@@ -1,94 +1,104 @@
-<!-- GitHub Profile README for Akinkunmi -->
+# 👋 Welcome to My GitHub Profile
 
-<h1 align="center">👋 Hi, I'm Akinkunmi</h1>
+<div align="center">
+  
+  **Full Stack Developer | Open Source Enthusiast | Tech Innovator**
+  
+  *Building scalable applications and creating meaningful solutions through code*
 
-<h3 align="center">Azure Cloud & AI Solution Architect · Full‑Stack Generalist · Digital Strategy Enthusiast</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kikunmi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-kikunmi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@TheGeneralistHangout" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-The%20Generalist%20Hangout-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🧭 About Me
+## 🚀 About Me
 
-I’m a **cloud & AI solution architect** and **full‑stack generalist** who loves operating at the intersection of **technology, strategy, and people**.
+Hello! I'm **Kikunmi**, a passionate full-stack developer dedicated to crafting elegant, efficient, and user-centric applications. With expertise across the entire development stack, I transform ideas into robust digital solutions. I'm committed to writing clean code, following best practices, and continuously learning new technologies.
 
-- 💼 I work at **Microsoft**, helping customers design and adopt secure, scalable solutions on **Azure**.  
-- 🎓 I’m pursuing the **MSIM** at the **University of Washington iSchool**, focusing on **Program/Product Management & Artificial Intelligence**.  
-- 🧠 I care deeply about **human‑centered innovation**, **digital transformation**, and helping others become **learn‑it‑alls, not know‑it‑alls**.
-
-I use this GitHub to explore ideas, share examples, and prototype across cloud, AI, security, and software engineering.
+Whether it's building interactive frontends, architecting backend systems, or deploying to the cloud, I bring creativity and technical excellence to every project.
 
 ---
 
-## 🛠 Tech Stack & Focus Areas
+## 🧠 What I Care About
 
-### ☁️ Cloud & Platform (Azure‑First)
-
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20App%20Service-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-</p>
-
-### 🤖 AI, Data & Security
-
-<p>
-  <img src="https://img.shields.io/badge/Azure%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Machine%20Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Identity%20%26%20Access-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zero%20Trust-Security-critical?style=for-the-badge&color=222" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### 💻 Full‑Stack & Scripting
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-</p>
+- 📚 **Learn‑It‑All Mindset** – Continuous learning, teaching, and giving back to the community
+- 🧩 **Digital Strategy** – Intentional use of technology to achieve a business outcomes.  
+- 👥 **Human‑Centered Innovation** – Designing solutions around people, not just tools
 
 ---
 
-## 🔍 What You’ll Find Here
+## 💻 Tech Stack
 
-- 🌐 Example architectures and patterns for **Azure Cloud & AI**  
-- 🧩 Experiments with **identity, security, and zero‑trust**  
-- 💡 Prototypes that explore **digital strategy concepts in code**  
-- 🧪 Small projects used in videos on **_The Generalist Hangout_**
+<div align="center">
 
-I’m less focused on “perfect repos” and more on **sharing learning journeys, patterns, and practical templates** others can build on.
+### Frontend Development
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS)
+
+### Backend Development
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com)
+
+### Databases
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+
+### Tools & Platforms
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com)
+
+</div>
 
 ---
+
+## 🌟 Featured Projects
 
 ## 🎥 The Generalist Hangout
 
-I host a YouTube channel called **_The Generalist Hangout_**, where I talk about:
+I run a YouTube channel called **_The Generalist Hangout_**, where I share:
 
-- My journey in the **IT industry** and lessons learned along the way  
-- **Cloud, AI, cybersecurity, and software engineering** from a generalist’s lens  
-- How to think in terms of **digital strategy**, not just tools  
-- Career growth across **engineering, architecture, and product/program management**
+- Real‑world stories from the **IT industry** and **enterprise architecture**
+- Deep dives into **Azure**, **AI**, **cybersecurity**, and **software engineering**
+- Career guidance in **program / product management** and **data‑driven decision‑making**
+- Practical content for engineers who want to think beyond tools and into **digital strategy**
 
 👉 **Subscribe:**  
 https://www.youtube.com/@TheGeneralistHangout
 
 ---
 
-## 📬 Let’s Connect
+## 📊 GitHub Stats
 
-- 💼 LinkedIn: https://www.linkedin.com/in/kikunmi  
-- 📺 YouTube: https://www.youtube.com/@TheGeneralistHangout  
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kikunmi&theme=tokyonight&show_icons=true&hide_border=true)
 
-> 💙 *Don’t be a know‑it‑all. Be a learn‑it‑all.*
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kikunmi)
+
+</div>
+
+---
+
+<div align="center">
+  
+  **⭐ If you find my projects useful, please give them a star!**
+  
+  *Last updated: March 13, 2026*
+
+</div>
+```
