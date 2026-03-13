@@ -23,6 +23,7 @@ Whether it's building interactive frontends, architecting backend systems, or de
 - 📚 **Learn‑It‑All Mindset** – Continuous learning, teaching, and giving back to the community.
 - 🧩 **Digital Strategy** – Intentional use of technology to achieve a business outcomes.
 - 👥 **Human‑Centered Innovation** – Designing solutions around people, not just tools.
+- 🧩 **Cybersecurity** - Keeping security as No:1 priority when designing, building and operations.
 
 ---
 
