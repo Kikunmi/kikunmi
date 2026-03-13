@@ -21,39 +21,54 @@ Whether it's building interactive frontends, architecting backend systems, or de
 ## 🧠 What I Care About
 
 - 📚 **Learn‑It‑All Mindset** – Continuous learning, teaching, and giving back to the community
-- 🧩 **Digital Strategy** – Intentional use of technology to achieve a business outcomes.  
+- 🧩 **Digital Strategy** – Intentional use of technology to achieve a business outcomes.
 - 👥 **Human‑Centered Innovation** – Designing solutions around people, not just tools
 
 ---
 
 ## 💻 Tech Stack
 
-<div align="center">
-
-### Frontend Development
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS)
-
-### Backend Development
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com)
-
-### Databases
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-
-### Tools & Platforms
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com)
-
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+    <div style="margin: 10px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50">
+        <p>HTML5</p>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50">
+        <p>CSS3</p>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
+        <p>JavaScript</p>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50">
+        <p>React</p>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50">
+        <p>Node.js</p>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50">
+        <p>Python</p>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50">
+        <p>PostgreSQL</p>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50">
+        <p>MongoDB</p>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50">
+        <p>Docker</p>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50">
+        <p>Git</p>
+    </div>
 </div>
 
 ---
@@ -102,3 +117,51 @@ https://www.youtube.com/@TheGeneralistHangout
 
 </div>
 ```
+
+## Interactive Technology Icons
+<div style="display: flex; flex-wrap: wrap;">
+    <div style="margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50">
+        <p>HTML5</p>
+    </div>
+    <div style="margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50">
+        <p>CSS3</p>
+    </div>
+    <div style="margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
+        <p>JavaScript</p>
+    </div>
+    <div style="margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50">
+        <p>React</p>
+    </div>
+    <div style="margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50">
+        <p>Node.js</p>
+    </div>
+    <div style="margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50">
+        <p>Python</p>
+    </div>
+    <div style="margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50">
+        <p>PostgreSQL</p>
+    </div>
+    <div style="margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50">
+        <p>MongoDB</p>
+    </div>
+    <div style="margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50">
+        <p>Docker</p>
+    </div>
+    <div style="margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50">
+        <p>Git</p>
+    </div>
+</div>
+
+---
+
+Feel free to reach out to learn more about my experience and projects!
