@@ -28,44 +28,44 @@ Whether it's building interactive frontends, architecting backend systems, or de
 
 ## 💻 Tech Stack
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <div style="margin: 10px; text-align: center;">
+<div style="display: flex; flex-wrap: wrap;">
+    <div style="margin: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50">
         <p>HTML5</p>
     </div>
-    <div style="margin: 10px; text-align: center;">
+    <div style="margin: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50">
         <p>CSS3</p>
     </div>
-    <div style="margin: 10px; text-align: center;">
+    <div style="margin: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
         <p>JavaScript</p>
     </div>
-    <div style="margin: 10px; text-align: center;">
+    <div style="margin: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50">
         <p>React</p>
     </div>
-    <div style="margin: 10px; text-align: center;">
+    <div style="margin: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50">
         <p>Node.js</p>
     </div>
-    <div style="margin: 10px; text-align: center;">
+    <div style="margin: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50">
         <p>Python</p>
     </div>
-    <div style="margin: 10px; text-align: center;">
+    <div style="margin: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50">
         <p>PostgreSQL</p>
     </div>
-    <div style="margin: 10px; text-align: center;">
+    <div style="margin: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50">
         <p>MongoDB</p>
     </div>
-    <div style="margin: 10px; text-align: center;">
+    <div style="margin: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50">
         <p>Docker</p>
     </div>
-    <div style="margin: 10px; text-align: center;">
+    <div style="margin: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50">
         <p>Git</p>
     </div>
@@ -117,51 +117,3 @@ https://www.youtube.com/@TheGeneralistHangout
 
 </div>
 ```
-
-## Interactive Technology Icons
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50">
-        <p>HTML5</p>
-    </div>
-    <div style="margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50">
-        <p>CSS3</p>
-    </div>
-    <div style="margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
-        <p>JavaScript</p>
-    </div>
-    <div style="margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50">
-        <p>React</p>
-    </div>
-    <div style="margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50">
-        <p>Node.js</p>
-    </div>
-    <div style="margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50">
-        <p>Python</p>
-    </div>
-    <div style="margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50">
-        <p>PostgreSQL</p>
-    </div>
-    <div style="margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50">
-        <p>MongoDB</p>
-    </div>
-    <div style="margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50">
-        <p>Docker</p>
-    </div>
-    <div style="margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50">
-        <p>Git</p>
-    </div>
-</div>
-
----
-
-Feel free to reach out to learn more about my experience and projects!
