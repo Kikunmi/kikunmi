@@ -1,13 +1,15 @@
+<!-- GitHub Profile README for Akinkunmi -->
+
 <h1 align="center">👋 Hi, I'm Akinkunmi</h1>
 
-<h3 align="center">Full‑Stack Developer · Azure Cloud & AI Architect · Digital Strategy Generalist</h3>
+<h3 align="center">Azure Cloud & AI Solution Architect · Full‑Stack Generalist · Digital Strategy Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kikunmi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-kikunmi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@TheGeneralistHangout" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-The%20Generalist%20Hangout-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube - The Generalist Hangout" />
+    <img src="https://img.shields.io/badge/YouTube-The%20Generalist%20Hangout-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
@@ -15,73 +17,78 @@
 
 ## 🧭 About Me
 
-I’m a **full‑stack developer** and **Azure Cloud & AI solution architect** with a passion for **human‑centered innovation** and **digital transformation**.
+I’m a **cloud & AI solution architect** and **full‑stack generalist** who loves operating at the intersection of **technology, strategy, and people**.
 
-By day, I help organizations design and implement secure, scalable solutions in the Microsoft ecosystem. By night, I build and share content that helps people become **learn‑it‑alls, not know‑it‑alls**—across cloud, AI, security, and software engineering.
+- 💼 I work at **Microsoft**, helping customers design and adopt secure, scalable solutions on **Azure**.  
+- 🎓 I’m pursuing the **MSIM** at the **University of Washington iSchool**, focusing on **Program/Product Management & Artificial Intelligence**.  
+- 🧠 I care deeply about **human‑centered innovation**, **digital transformation**, and helping others become **learn‑it‑alls, not know‑it‑alls**.
+
+I use this GitHub to explore ideas, share examples, and prototype across cloud, AI, security, and software engineering.
 
 ---
 
 ## 🛠 Tech Stack & Focus Areas
 
-### 💻 Full‑Stack Development
+### ☁️ Cloud & Platform (Azure‑First)
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
-
-### ☁️ Cloud, DevOps & Platform
-
-<p>
-  <!-- Azure core -->
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20App%20Service-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20SQL%20Database-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
 </p>
 
 ### 🤖 AI, Data & Security
 
 <p>
-  <img src="https://img.shields.io/badge/Azure%20OpenAI-0F9D58?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20Machine%20Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Security-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Identity%20%26%20Access-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Zero%20Trust-Security-critical?style=for-the-badge&color=222" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 💻 Full‑Stack & Scripting
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
 ---
 
-## 🧠 What I Care About
+## 🔍 What You’ll Find Here
 
-- 🧩 **Digital Strategy** – Connecting business outcomes to the right cloud and AI capabilities  
-- 👥 **Human‑Centered Innovation** – Designing solutions around people, not just tools  
-- 🧪 **Architecture & Deep Dives** – From whiteboard to production, with a focus on security and reliability  
-- 📚 **Learn‑It‑All Mindset** – Continuous learning, teaching, and giving back to the community  
+- 🌐 Example architectures and patterns for **Azure Cloud & AI**  
+- 🧩 Experiments with **identity, security, and zero‑trust**  
+- 💡 Prototypes that explore **digital strategy concepts in code**  
+- 🧪 Small projects used in videos on **_The Generalist Hangout_**
+
+I’m less focused on “perfect repos” and more on **sharing learning journeys, patterns, and practical templates** others can build on.
 
 ---
 
 ## 🎥 The Generalist Hangout
 
-I run a YouTube channel called **_The Generalist Hangout_**, where I share:
+I host a YouTube channel called **_The Generalist Hangout_**, where I talk about:
 
-- Real‑world stories from the **IT industry** and **enterprise architecture**
-- Deep dives into **Azure**, **AI**, **cybersecurity**, and **software engineering**
-- Career guidance in **program / product management** and **data‑driven decision‑making**
-- Practical content for engineers who want to think beyond tools and into **digital strategy**
+- My journey in the **IT industry** and lessons learned along the way  
+- **Cloud, AI, cybersecurity, and software engineering** from a generalist’s lens  
+- How to think in terms of **digital strategy**, not just tools  
+- Career growth across **engineering, architecture, and product/program management**
 
 👉 **Subscribe:**  
-[The Generalist Hangout on YouTube](https://www.youtube.com/@TheGeneralistHangout)
+https://www.youtube.com/@TheGeneralistHangout
 
 ---
 
 ## 📬 Let’s Connect
 
-- 💼 LinkedIn: [linkedin.com/in/kikunmi](https://www.linkedin.com/in/kikunmi)
-- 📺 YouTube: [@TheGeneralistHangout](https://www.youtube.com/@TheGeneralistHangout)
+- 💼 LinkedIn: https://www.linkedin.com/in/kikunmi  
+- 📺 YouTube: https://www.youtube.com/@TheGeneralistHangout  
 
 > 💙 *Don’t be a know‑it‑all. Be a learn‑it‑all.*
