@@ -80,10 +80,10 @@ Whether it's building interactive frontends, architecting backend systems, or de
 
 I run a YouTube channel called **_The Generalist Hangout_**, where I share:
 
-- Real‑world stories from the **IT industry** and **enterprise architecture**
-- Deep dives into **Azure**, **AI**, **cybersecurity**, and **software engineering**
-- Career guidance in **program / product management** and **data‑driven decision‑making**
-- Practical content for engineers who want to think beyond tools and into **digital strategy**
+- Real‑world stories from the **IT industry** and **enterprise architecture**.
+- Deep dives into **Azure**, **AI**, **cybersecurity**, and **software engineering**.
+- Career guidance in **program / product management** and **data‑driven decision‑making**.
+- Practical content for engineers who want to think beyond tools and into **digital strategy**.
 
 👉 **Subscribe:**  
 https://www.youtube.com/@TheGeneralistHangout
@@ -112,9 +112,9 @@ https://www.youtube.com/@TheGeneralistHangout
 
 <div align="center">
   
-  **⭐ If you find my projects useful, please give them a star!**
+  **⭐ If you find my projects useful, please give them a star!**.
   
-  *Last updated: March 13, 2026*
+  *Last updated: March 13, 2026*.
 
 </div>
 ```
