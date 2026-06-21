@@ -30,7 +30,7 @@ Whether it's building interactive frontends, architecting backend systems, or de
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,postgres,mongodb,docker,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,postgres,mongodb,docker,git,azure" />
 </p>
 ``
 
