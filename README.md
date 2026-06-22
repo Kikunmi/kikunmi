@@ -14,7 +14,7 @@
 
 Hello! I'm **Kikunmi**, a passionate full-stack developer dedicated to crafting elegant, efficient, and user-centric applications. With expertise across the entire development stack, I transform ideas into robust digital solutions. I'm committed to writing clean code, following best practices, and continuously learning new technologies.
 
-Whether it's building interactive frontends, architecting backend systems, or deploying to the cloud, I bring creativity and technical excellence to every project.
+Whether it's building interactive frontends, api's, architecting backend systems, or deploying to the cloud, I bring creativity and technical excellence to every project.
 
 ---
 
