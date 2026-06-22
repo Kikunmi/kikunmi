@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  **Full Stack Developer | Open Source Enthusiast | Tech Innovator**
+  **Full Stack Developer | Azure Solution Architect | AI & Cybersecurity Enthusiast**
   
   *Building scalable applications and creating meaningful solutions through code*
 
